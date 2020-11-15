@@ -114,7 +114,7 @@ def filter_battery (bat):
 
 
 
-print(      "\n\n\n               ~~~~> WELCOME TO LAPILE-BUY.COM \n             ~~~~> FIND THE LAPTOP OF YOUR CHOICE \n          ~~~~> HAVE A GREAT EXPERIENCE")
+print(      "\n\n\n               ~~~~> WELCOME TO LAPILE-BUY.COM \n             ~~~~> FIND THE LAPTOP AND MOBILE OF YOUR CHOICE \n          ~~~~> HAVE A GREAT EXPERIENCE")
 
 device = int(input("HEY !!! LOOKING FOR A MOBILE OR LAPTOP \n FOR LAPTOP ENTER '1' AND FOR MOBILE ENTER '2'   "))
 #laptop section
